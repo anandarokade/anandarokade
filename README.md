@@ -18,11 +18,9 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech E&TC Student  
-💻 MERN Stack Developer  
-📚 Solved 200+ DSA Problems  
-⚡ Currently Learning System Design & Backend  
-🔥 Love Building Real World Applications  
+🎓 B.E. E&TC Student at PICT Pune  
+💻 MERN Stack Developer | 📚 200+ DSA Problems | 🤖 AI/ML Explorer  
+🚀 Building real-world applications and strong problem-solving skills
 
 ---
 
